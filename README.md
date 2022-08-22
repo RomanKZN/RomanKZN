@@ -24,3 +24,6 @@
 * [TG](https://t.me/Roman_Med)
 
  * <a href="mailto:roman.medvedev@bk.ru">roman.medvedev@bk.ru</a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKZN&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
