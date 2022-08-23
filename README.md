@@ -14,6 +14,8 @@
 ***
 ### [Мои работы](https://github.com/RomanKZN?tab=repositories)
 
+[Ручное тестирование](https://drive.google.com/drive/folders/1xaykNN44KpBSrH6br3SKy6oa-Lqeoxz2?usp=sharing)
+
 ***
 
 
