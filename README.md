@@ -9,7 +9,11 @@
 
 * [Java для тестировщиков](https://drive.google.com/file/d/1LKID9Twtxnux1OMbEQjHID1WDydsTxQj/view?usp=sharing)
 
-Сейчас изучаю автоматизированное тестирование.
+* [Автоматизированное
+тестирование веб-приложений на
+Java](https://drive.google.com/file/d/1xqUAYza1OMyUhjXYrVxTsseDBNLdYzgp/view?usp=sharing)
+ 
+В данный момент изучаю основы JavaScript для проведения тестирования Frontend-части сайта.
 
 ***
 ### [Мои работы](https://github.com/RomanKZN?tab=repositories)
