@@ -17,6 +17,7 @@ Java](https://drive.google.com/file/d/1xqUAYza1OMyUhjXYrVxTsseDBNLdYzgp/view?usp
 
 ***
 ### [Мои работы](https://github.com/RomanKZN?tab=repositories)
+### [Курсовой проект по модулю «Автоматизация тестирования»](https://github.com/RomanKZN/CourseProjectOnAutomation)
 
 [Ручное тестирование](https://drive.google.com/drive/folders/1xaykNN44KpBSrH6br3SKy6oa-Lqeoxz2?usp=sharing)
 
