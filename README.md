@@ -34,5 +34,6 @@ Java](https://drive.google.com/file/d/1xqUAYza1OMyUhjXYrVxTsseDBNLdYzgp/view?usp
 
  * <a href="mailto:roman.medvedev@bk.ru">roman.medvedev@bk.ru</a>
 
+***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKZN&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
