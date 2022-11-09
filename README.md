@@ -5,6 +5,8 @@
 
 * [Ручное тестирование веб-приложений](https://drive.google.com/file/d/15Qj44OAhy159PKRVAJeruJ-D6UKCT8AB/view?usp=sharing)
 
+* [Основы SQL](https://drive.google.com/file/d/1BumzOQ8KwDZ-qptL-XLe2mLfgqrkEc_B/view?usp=sharing)
+
 * [Git — система контроля версий](https://drive.google.com/file/d/1jzpeY6Eso97nsLaQpe47vY6zTy86QCSu/view?usp=sharing)
 
 * [Java для тестировщиков](https://drive.google.com/file/d/1LKID9Twtxnux1OMbEQjHID1WDydsTxQj/view?usp=sharing)
